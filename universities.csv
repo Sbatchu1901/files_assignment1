@@ -1,0 +1,501 @@
+id,name,address,city,state,website,zip,longitude,latitude,classification
+188429,Adelphi University,South Ave,Garden City,New York,www.adelphi.edu/,11530-0701,-73.653321,40.721439,Doctoral/Research Universities
+141334,University of West Georgia,1601 Maple St,Carrollton,Georgia,www.westga.edu,30118-0001,-85.099007,33.574421,Master's Colleges and Universities (larger programs)
+190044,Clarkson University,8 Clarkson Ave,Potsdam,New York,www.clarkson.edu,13699,-74.999947,44.663761,Research Universities (high research activity)
+483586,California International Business University,520 W Ash Street Ste 300,San Diego,California,www.cibu.edu,92101,-117.167671,32.719889,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+224226,Dallas Baptist University,3000 Mountain Creek Parkway,Dallas,Texas,www.dbu.edu,75211-9299,-96.947006,32.710017,Master's Colleges and Universities (larger programs)
+436094,Argosy University-Phoenix,2233 West Dunlap Avenue,Phoenix,Arizona,www.argosy.edu/phoenix/,85021,-112.107455,33.5669,Other health professions schools
+213987,Mercyhurst University,501 E 38th St,Erie,Pennsylvania,www.mercyhurst.edu,16546,-80.055568,42.103991,Master's Colleges and Universities (smaller programs)
+224147,Texas A & M University-Corpus Christi,6300 Ocean Dr.,Corpus Christi,Texas,www.tamucc.edu,78412-5503,-97.331933,27.718601,Doctoral/Research Universities
+148654,University of Illinois at Springfield,One University Plaza,Springfield,Illinois,www.uis.edu,62703-5407,-89.614917,39.729862,Master's Colleges and Universities (larger programs)
+239080,Marian University,45 S National Ave,Fond Du Lac,Wisconsin,www.marianuniversity.edu,54935-4699,-88.420638,43.777411,Master's Colleges and Universities (larger programs)
+377564,University of Washington-Tacoma Campus,1900 Commerce St,Tacoma,Washington,www.tacoma.uw.edu/,98402-3100,-122.437499,47.244967,Master's Colleges and Universities (medium programs)
+149781,Wheaton College,501 College Ave,Wheaton,Illinois,www.wheaton.edu,60187-5593,-88.09681,41.870943,Baccalaureate Colleges--Arts & Sciences
+157793,Sullivan University,3101 Bardstown Rd,Louisville,Kentucky,www.sullivan.edu,40205-3013,-85.670489,38.212824,Master's Colleges and Universities (medium programs)
+110644,University of California-Davis,One Shields Avenue,Davis,California,www.ucdavis.edu,95616-8678,-121.751958,38.539895,Research Universities (very high research activity)
+178402,University of Missouri-Kansas City,5100 Rockhill Rd,Kansas City,Missouri,www.umkc.edu/,64110,-94.578039,39.035366,Research Universities (high research activity)
+185828,New Jersey Institute of Technology,University Heights,Newark,New Jersey,www.njit.edu/,7102,-74.177113,40.741997,Research Universities (high research activity)
+186371,Rutgers University-Camden,406 Penn,Camden,New Jersey,www.rutgers.edu,8102,-75.125303,39.948628,Master's Colleges and Universities (medium programs)
+196079,SUNY at Binghamton,4400 Vestal Parkway East,Vestal,New York,www.binghamton.edu,13850-6000,-75.971143,42.088049,Research Universities (high research activity)
+172699,Western Michigan University,1903 West Michigan Avenue,Kalamazoo,Michigan,www.wmich.edu,49008-5200,-85.61512,42.282589,Research Universities (high research activity)
+162928,Johns Hopkins University,"3400 N Charles St, Mason Hall",Baltimore,Maryland,www.jhu.edu,21218-2688,-76.620799,39.32838,Research Universities (very high research activity)
+161554,University of Southern Maine,96 Falmouth St,Portland,Maine,www.usm.maine.edu,4103,-70.276002,43.662637,Master's Colleges and Universities (larger programs)
+197610,Yeshivat Mikdash Melech,1326 Ocean Pky,Brooklyn,New York,www.mikdashmelech.net/,11230-9963,-73.969614,40.616427,"Theological seminaries, Bible colleges, and other faith-related institutions"
+194824,Rensselaer Polytechnic Institute,110 8th St,Troy,New York,www.rpi.edu,12180-3590,-73.678768,42.728983,Research Universities (very high research activity)
+200332,North Dakota State University-Main Campus,1301  12th Avenue North,Fargo,North Dakota,www.ndsu.edu,58108-6050,-96.805689,46.894523,Research Universities (very high research activity)
+197708,Yeshiva University,500 W 185th St,New York,New York,www.yu.edu,10033-3299,-73.928541,40.8508,Research Universities (very high research activity)
+218663,University of South Carolina-Columbia,Columbia-Campus,Columbia,South Carolina,www.sc.edu/,29208,-81.026971,33.998973,Research Universities (very high research activity)
+148584,University of St Francis,500 N Wilcox St,Joliet,Illinois,www.stfrancis.edu,60435-6188,-88.096368,41.533341,Master's Colleges and Universities (larger programs)
+201885,University of Cincinnati-Main Campus,2624 Clifton Avenue,Cincinnati,Ohio,www.uc.edu,45221-0063,-84.51428,39.131159,Research Universities (very high research activity)
+136950,Rollins College,1000 Holt Avenue,Winter Park,Florida,www.rollins.edu,32789-4499,-81.348716,28.591992,Master's Colleges and Universities (larger programs)
+193654,The New School,66 W 12th Street,New York,New York,www.newschool.edu/,10011-8603,-73.994636,40.735275,Doctoral/Research Universities
+419457,Argosy University-Washington DC,"1550 Wilson Boulevard, Suite 600",Arlington,Virginia,www.argosy.edu/washingtondc,22209,-77.075927,38.894272,Other health professions schools
+172699,Western Michigan University,1903 West Michigan Avenue,Kalamazoo,Michigan,www.wmich.edu,49008-5200,-85.61512,42.282589,Research Universities (high research activity)
+110653,University of California-Irvine,501 Aldrich Hall,Irvine,California,www.uci.edu/,92697,-117.841248,33.648434,Research Universities (very high research activity)
+208488,Concordia University-Portland,2811 NE Holman Street,Portland,Oregon,www.cu-portland.edu,97211-6099,-122.637944,45.568242,Master's Colleges and Universities (larger programs)
+218663,University of South Carolina-Columbia,Columbia-Campus,Columbia,South Carolina,www.sc.edu/,29208,-81.026971,33.998973,Research Universities (very high research activity)
+151324,Indiana State University,210 N 7th St,Terre Haute,Indiana,www.indstate.edu,47809,-87.407085,39.46873,Doctoral/Research Universities
+449870,University of the West,1409 N Walnut Grove Ave,Rosemead,California,www.uwest.edu,91770,-118.082964,34.045985,Baccalaureate Colleges--Diverse Fields
+189273,Beth Hamedrash Shaarei Yosher Institute,4102 16th Ave,Brooklyn,New York,,11204,-73.981088,40.635503,"Theological seminaries, Bible colleges, and other faith-related institutions"
+110680,University of California-San Diego,9500 Gilman Dr,La Jolla,California,www.ucsd.edu,92093,-117.237793,32.876598,Research Universities (very high research activity)
+442222,Argosy University-Dallas,"5001 Lyndon B. Johnson Freeway, Heritage Square, Suite 230",Farmers Branch,Texas,www.argosy.edu/dallas/,75244,-96.823046,32.926742,Other health professions schools
+213011,Immaculata University,1145 King Rd,Immaculata,Pennsylvania,www.immaculata.edu,19345-0702,-75.57063,40.027963,Doctoral/Research Universities
+225247,Hardin-Simmons University,2200 Hickory,Abilene,Texas,www.hsutx.edu,79698-0001,-99.733815,32.476786,Master's Colleges and Universities (medium programs)
+180416,Montana Tech of the University of Montana,1300 W Park St,Butte,Montana,www.mtech.edu,59701-8997,-112.557,46.012164,Baccalaureate Colleges--Diverse Fields
+447272,Argosy University-Los Angeles,"5230 Pacific Concourse, Suite 200",Los Angeles,California,www.argosy.edu/los-angeles-california/default.aspx,90045,-118.373038,33.927857,Baccalaureate Colleges--Arts & Sciences
+110778,Sofia University,1069 East Meadow Cr,Palo Alto,California,www.sofia.edu,94303,-122.10866,37.430325,Other health professions schools
+164739,Bentley University,175 Forest St,Waltham,Massachusetts,www.bentley.edu,02452-4705,-71.220148,42.388798,Master's Colleges and Universities (larger programs)
+232557,Liberty University,1971 University Blvd,Lynchburg,Virginia,www.liberty.edu,24515,-79.179688,37.350345,Master's Colleges and Universities (larger programs)
+450535,Argosy University-Nashville,"100 Centerview Dr, Suite 225",Nashville,Tennessee,www.argosy.edu/nashville/,37214,-86.634674,36.154664,Other health professions schools
+152080,University of Notre Dame,400 Main Building,Notre Dame,Indiana,www.nd.edu,46556,-86.238959,41.703058,Research Universities (very high research activity)
+141574,University of Hawaii at Manoa,"2500 Campus Road, Hawaii Hall",Honolulu,Hawaii,manoa.hawaii.edu,96822-2217,-157.816607,21.292648,Research Universities (very high research activity)
+189273,Beth Hamedrash Shaarei Yosher Institute,4102 16th Ave,Brooklyn,New York,,11204,-73.981088,40.635503,"Theological seminaries, Bible colleges, and other faith-related institutions"
+149781,Wheaton College,501 College Ave,Wheaton,Illinois,www.wheaton.edu,60187-5593,-88.09681,41.870943,Baccalaureate Colleges--Arts & Sciences
+199148,University of North Carolina at Greensboro,1400 Spring Garden St,Greensboro,North Carolina,www.uncg.edu,27402-6170,-79.809844,36.067503,Research Universities (high research activity)
+217484,University of Rhode Island,"Green Hall, 35 Campus Avenue",Kingston,Rhode Island,www.uri.edu/,2881,-71.527356,41.484691,Research Universities (high research activity)
+147767,Northwestern University,633 Clark St,Evanston,Illinois,www.northwestern.edu,60208,-87.673653,42.058377,Research Universities (very high research activity)
+120698,Palo Alto University,1791 Arastradero Rd,Palo Alto,California,www.paloaltou.edu,94304-1337,-122.186022,37.383251,Other health professions schools
+185590,Montclair State University,1 Normal Avenue,Montclair,New Jersey,www.montclair.edu,07043-1624,-74.199455,40.859233,Master's Colleges and Universities (larger programs)
+167835,Smith College,Elm St,Northampton,Massachusetts,www.smith.edu,1063,-72.638094,42.317933,Baccalaureate Colleges--Arts & Sciences
+125231,Walden University,"100 Washington Avenue South, Suite 900",Minneapolis,Minnesota,www.waldenu.edu,55401,-93.265731,44.98137,Doctoral/Research Universities
+153269,Drake University,2507 University Avenue,Des Moines,Iowa,www.drake.edu,50311-4505,-93.654062,41.60381,Master's Colleges and Universities (larger programs)
+131520,Howard University,2400 Sixth St NW,Washington,District of Columbia,www.howard.edu,20059-0001,-77.019478,38.920739,Research Universities (high research activity)
+131450,Gallaudet University,"800 Florida Ave, NE",Washington,District of Columbia,www.gallaudet.edu,20002-3695,-76.993675,38.907371,Master's Colleges and Universities (smaller programs)
+110592,California State University-Los Angeles,5151 State University Dr,Los Angeles,California,www.calstatela.edu,90032,-118.168965,34.066927,Master's Colleges and Universities (larger programs)
+420325,Yeshiva D'monsey Rabbinical College,2 Roman Blvd,Monsey,New York,,10952,-74.065944,41.115776,"Theological seminaries, Bible colleges, and other faith-related institutions"
+135726,University of Miami,University of Miami,Coral Gables,Florida,www.miami.edu/,33146,-80.27645,25.720406,Research Universities (very high research activity)
+184348,Drew University,36 Madison Ave,Madison,New Jersey,www.drew.edu,7940,-74.425825,40.757026,Baccalaureate Colleges--Arts & Sciences
+141264,Valdosta State University,1500 N Patterson St,Valdosta,Georgia,www.valdosta.edu,31698,-83.289925,30.849236,Master's Colleges and Universities (larger programs)
+130794,Yale University,Woodbridge Hall,New Haven,Connecticut,www.yale.edu,6520,-72.926688,41.311158,Research Universities (very high research activity)
+166629,University of Massachusetts-Amherst,374 Whitmore Building 181 Presidents Drive,Amherst,Massachusetts,www.umass.edu,1003,-72.52613,42.386105,Research Universities (very high research activity)
+221847,Tennessee Technological University,1 William L. Jones Drive,Cookeville,Tennessee,www.tntech.edu,38505-0001,-85.503957,36.174659,Master's Colleges and Universities (larger programs)
+131496,Georgetown University,37th and O St NW,Washington,District of Columbia,www.georgetown.edu,20057-0001,-77.073463,38.908809,Research Universities (very high research activity)
+110468,Alliant International University-San Diego,10455 Pomerado Road,San Diego,California,www.alliant.edu,92131,-117.094398,32.897056,Doctoral/Research Universities
+126580,University of Colorado Colorado Springs,1420 Austin Bluffs Parkway,Colorado Springs,Colorado,www.uccs.edu,80918,-104.800296,38.892735,Master's Colleges and Universities (larger programs)
+157757,Spalding University,901 S Fourth Street,Louisville,Kentucky,www.spalding.edu,40203-2188,-85.75905,38.241815,Doctoral/Research Universities
+121150,Pepperdine University,24255 Pacific Coast Hwy,Malibu,California,www.pepperdine.edu/,90263,-118.707677,34.041912,Doctoral/Research Universities
+238032,West Virginia University,"Stewart Hall, 1500 University Avenue",Morgantown,West Virginia,www.wvu.edu/,26506-6201,-79.953926,39.63468,Research Universities (high research activity)
+180461,Montana State University,Montana State University,Bozeman,Montana,www.montana.edu/,59717,-111.049918,45.666829,Research Universities (very high research activity)
+167987,University of Massachusetts-Dartmouth,285 Old Westport Rd,North Dartmouth,Massachusetts,www.umassd.edu,02747-2300,-71.005528,41.628861,Master's Colleges and Universities (larger programs)
+228644,The University of Texas Health Science Center at San Antonio,7703 Floyd Curl Dr,San Antonio,Texas,www.uthscsa.edu,78229-3900,-98.57606,29.504716,Medical schools and medical centers
+128425,Yeshiva Toras Chaim Talmudical Seminary,1555 Stuart St,Denver,Colorado,,80204,-105.043282,39.741781,"Theological seminaries, Bible colleges, and other faith-related institutions"
+214713,Pennsylvania State University-Penn State Harrisburg,777 West Harrisburg Pike,Middletown,Pennsylvania,hbg.psu.edu/,17057,-76.741961,40.205234,Master's Colleges and Universities (larger programs)
+437097,University of Management and Technology,"1901 Fort Myer Drive, Suite 700",Arlington,Virginia,www.umtweb.edu,22209-1609,-77.072001,38.89742,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+102094,University of South Alabama,307 N University Blvd,Mobile,Alabama,www.southalabama.edu,36688-0002,-88.18189,30.695081,Research Universities (high research activity)
+169248,Central Michigan University,106 Warriner Hall,Mount Pleasant,Michigan,www.cmich.edu,48859,-84.775275,43.591137,Doctoral/Research Universities
+450933,Columbia Southern University,21982 University Lane,Orange Beach,Alabama,www.columbiasouthern.edu,36561-9000,-87.652505,30.330964,Master's Colleges and Universities (larger programs)
+135364,Luther Rice University & Seminary,3038 Evans Mill Rd,Lithonia,Georgia,www.LRU.edu,30038-9869,-84.123648,33.697984,"Theological seminaries, Bible colleges, and other faith-related institutions"
+232265,Hampton University,E Queen Street,Hampton,Virginia,www.hamptonu.edu,23668-0099,-76.337647,37.022084,Master's Colleges and Universities (medium programs)
+196097,Stony Brook University,310 Administration Building,Stony Brook,New York,www.stonybrook.edu,11794,-73.123595,40.913138,Research Universities (very high research activity)
+228459,Texas State University,601 University Dr,San Marcos,Texas,www.txstate.edu,78666,-97.936392,29.889202,Master's Colleges and Universities (larger programs)
+110653,University of California-Irvine,501 Aldrich Hall,Irvine,California,www.uci.edu/,92697,-117.841248,33.648434,Research Universities (very high research activity)
+130794,Yale University,Woodbridge Hall,New Haven,Connecticut,www.yale.edu,6520,-72.926688,41.311158,Research Universities (very high research activity)
+175272,Winona State University,175 West Mark Street,Winona,Minnesota,www.winona.edu,55987-5838,-91.644007,44.045586,Master's Colleges and Universities (medium programs)
+169798,Eastern Michigan University,202 Welch Hall,Ypsilanti,Michigan,www.emich.edu,48197,-83.624499,42.245751,Master's Colleges and Universities (larger programs)
+148584,University of St Francis,500 N Wilcox St,Joliet,Illinois,www.stfrancis.edu,60435-6188,-88.096368,41.533341,Master's Colleges and Universities (larger programs)
+195809,St John's University-New York,8000 Utopia Pky,Queens,New York,www.stjohns.edu,11439,-73.795301,40.721979,Doctoral/Research Universities
+206279,Union Institute & University,440 E McMillan St,Cincinnati,Ohio,www.myunion.edu,45206-1925,-84.500139,39.126856,Doctoral/Research Universities
+141334,University of West Georgia,1601 Maple St,Carrollton,Georgia,www.westga.edu,30118-0001,-85.099007,33.574421,Master's Colleges and Universities (larger programs)
+227216,University of North Texas,1501 W.Chestnut Ave.,Denton,Texas,www.unt.edu,76203-1277,-97.151211,33.210958,Research Universities (high research activity)
+199315,Piedmont International University,420 S. Broad St.,Winston Salem,North Carolina,www.piedmontu.edu,27101-5025,-80.249121,36.088839,"Theological seminaries, Bible colleges, and other faith-related institutions"
+230728,Utah State University,Old Main Hill,Logan,Utah,www.usu.edu,84322-1400,-111.81391,41.740748,Research Universities (high research activity)
+138354,The University of West Florida,11000 University Parkway,Pensacola,Florida,uwf.edu,32514-5750,-87.218125,30.542855,Doctoral/Research Universities
+102094,University of South Alabama,307 N University Blvd,Mobile,Alabama,www.southalabama.edu,36688-0002,-88.18189,30.695081,Research Universities (high research activity)
+184348,Drew University,36 Madison Ave,Madison,New Jersey,www.drew.edu,7940,-74.425825,40.757026,Baccalaureate Colleges--Arts & Sciences
+221856,Tennessee Temple University,1815 Union Ave,Chattanooga,Tennessee,www.tntemple.edu,37404,-85.27742,35.032456,"Theological seminaries, Bible colleges, and other faith-related institutions"
+167358,Northeastern University,360 Huntington Ave,Boston,Massachusetts,www.northeastern.edu,02115-5005,-71.088782,42.339992,Research Universities (high research activity)
+211024,Baptist Bible College & Seminary of Pennsylvania,538 Venard Rd,Clarks Summit,Pennsylvania,www.bbc.edu,18411-1250,-75.683551,41.496219,"Theological seminaries, Bible colleges, and other faith-related institutions"
+433660,Florida Gulf Coast University,10501 Fgcu Blvd S,Fort Myers,Florida,www.fgcu.edu,33965-6565,-81.773578,26.464262,Master's Colleges and Universities (larger programs)
+234155,Virginia State University,1 Hayden Drive,Petersburg,Virginia,www.vsu.edu,23806,-77.419886,37.236453,Master's Colleges and Universities (smaller programs)
+133951,Florida International University,11200 S. W. 8 Street,Miami,Florida,www.fiu.edu,33199,-80.377591,25.757111,Research Universities (high research activity)
+153269,Drake University,2507 University Avenue,Des Moines,Iowa,www.drake.edu,50311-4505,-93.654062,41.60381,Master's Colleges and Universities (larger programs)
+236939,Washington State University,French Administration Building,Pullman,Washington,wsu.edu/,99164-5910,-117.158168,46.730448,Research Universities (very high research activity)
+217633,Anderson University,316 Boulevard,Anderson,South Carolina,www.andersonuniversity.edu,29621-4035,-82.640205,34.515506,Baccalaureate Colleges--Diverse Fields
+183910,Caldwell University,120 Bloomfield Avenue,Caldwell,New Jersey,www.caldwell.edu,07006-6195,-74.273697,40.834285,Master's Colleges and Universities (medium programs)
+198543,Fayetteville State University,1200 Murchison Rd,Fayetteville,North Carolina,www.uncfsu.edu,28301-4298,-78.894709,35.072485,Master's Colleges and Universities (medium programs)
+232265,Hampton University,E Queen Street,Hampton,Virginia,www.hamptonu.edu,23668-0099,-76.337647,37.022084,Master's Colleges and Universities (medium programs)
+156541,University of the Cumberlands,6191 College Station Drive,Williamsburg,Kentucky,www.ucumberlands.edu,40769,-84.162375,36.736489,Master's Colleges and Universities (medium programs)
+226152,Texas A & M International University,5201 University Blvd,Laredo,Texas,tamiu.edu,78041-1900,-99.435225,27.573504,Master's Colleges and Universities (larger programs)
+213011,Immaculata University,1145 King Rd,Immaculata,Pennsylvania,www.immaculata.edu,19345-0702,-75.57063,40.027963,Doctoral/Research Universities
+133951,Florida International University,11200 S. W. 8 Street,Miami,Florida,www.fiu.edu,33199,-80.377591,25.757111,Research Universities (high research activity)
+180461,Montana State University,Montana State University,Bozeman,Montana,www.montana.edu/,59717,-111.049918,45.666829,Research Universities (very high research activity)
+100690,Amridge University,1200 Taylor Rd,Montgomery,Alabama,www.amridgeuniversity.edu,36117-3553,-86.17401,32.362609,Baccalaureate Colleges--Arts & Sciences
+426314,Embry-Riddle Aeronautical University-Worldwide,600 S. Clyde Morris Blvd.,Daytona Beach,Florida,www.erau.edu,32114-3900,-81.04951,29.18927,Other technology-related schools
+174233,University of Minnesota-Duluth,515 Darland Administration Bldg,Duluth,Minnesota,www.d.umn.edu/,55812,-92.085177,46.818896,Master's Colleges and Universities (medium programs)
+115083,Golden Gate University-San Francisco,536 Mission Street,San Francisco,California,www.ggu.edu,94105-2968,-122.398785,37.789208,Master's Colleges and Universities (larger programs)
+110671,University of California-Riverside,900 University Ave,Riverside,California,WWW.UCR.EDU,92521,-117.331098,33.97588,Research Universities (very high research activity)
+106245,University of Arkansas at Little Rock,2801 S University Ave,Little Rock,Arkansas,ualr.edu/www/,72204,-92.341835,34.726644,Doctoral/Research Universities
+212832,Gwynedd Mercy University,1325 Sumneytown Pike,Gwynedd Valley,Pennsylvania,www.gmercyu.edu/,19437-0901,-75.238052,40.197566,Master's Colleges and Universities (medium programs)
+147828,Olivet Nazarene University,One University Avenue,Bourbonnais,Illinois,www.olivet.edu,60914-2271,-87.873654,41.155489,Master's Colleges and Universities (larger programs)
+110671,University of California-Riverside,900 University Ave,Riverside,California,WWW.UCR.EDU,92521,-117.331098,33.97588,Research Universities (very high research activity)
+229160,Texas Wesleyan University,1201 Wesleyan St,Fort Worth,Texas,www.txwes.edu,76105-1536,-97.279631,32.733314,Master's Colleges and Universities (larger programs)
+147013,McKendree University,701 College Rd,Lebanon,Illinois,www.mckendree.edu/prospective/admissions/index.aspx,62254-1291,-89.814486,38.609431,Master's Colleges and Universities (larger programs)
+241331,Carlos Albizu University-San Juan,"151 Tanca St, Corner San Francisco St, Old San Juan",San Juan,Puerto Rico,www.albizu.edu,00902-3711,-66.114273,18.466435,Other health professions schools
+219976,Lipscomb University,One University Park Drive,Nashville,Tennessee,www.lipscomb.edu,37204-3951,-86.799304,36.10469,Master's Colleges and Universities (larger programs)
+420866,Argosy University-Schaumburg,"999 North Plaza Dr., Suite 111",Schaumburg,Illinois,www.argosy.edu/schaumburg,60173-5403,-88.042083,42.046739,Other health professions schools
+224323,University of Dallas,1845 E Northgate Drive,Irving,Texas,www.udallas.edu,75062-4736,-96.921573,32.846202,Master's Colleges and Universities (larger programs)
+221838,Tennessee State University,3500 John A. Merritt Blvd,Nashville,Tennessee,www.tnstate.edu,37209-1561,-86.82937,36.16899,Doctoral/Research Universities
+209807,Portland State University,724 SW Harrison,Portland,Oregon,www.pdx.edu,97201,-122.683553,45.511229,Research Universities (high research activity)
+132471,Barry University,11300 NE 2nd Ave,Miami,Florida,www.barry.edu,33161-6695,-80.196136,25.878865,Doctoral/Research Universities
+445188,University of California-Merced,5200 North Lake Road,Merced,California,www.ucmerced.edu,95343-5603,-120.424944,37.366237,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+182290,University of Nevada-Reno,North Virginia Street,Reno,Nevada,www.unr.edu/,89557,-119.821651,39.549352,Research Universities (high research activity)
+198419,Duke University,103 Allen Bldg,Durham,North Carolina,WWW.DUKE.EDU,27708,-78.94226,36.00159,Research Universities (very high research activity)
+229814,West Texas A & M University,2501 4th Ave,Canyon,Texas,www.wtamu.edu,79016-0001,-101.9158,34.981996,Master's Colleges and Universities (larger programs)
+193247,Mirrer Yeshiva Cent Institute,1791-5 Ocean Parkway,Brooklyn,New York,,11223-2010,-73.966049,40.605043,"Theological seminaries, Bible colleges, and other faith-related institutions"
+190044,Clarkson University,8 Clarkson Ave,Potsdam,New York,www.clarkson.edu,13699,-74.999947,44.663761,Research Universities (high research activity)
+148511,Rush University,600 S. Paulina St. STE 440,Chicago,Illinois,WWW.RUSHU.RUSH.EDU,60612,-87.667498,41.874911,Medical schools and medical centers
+450979,Trident University International,"5757 Plaza Drive, Suite 100",Cypress,California,www.trident.edu/,90630-5041,-118.034759,33.805244,Doctoral/Research Universities
+238661,Edgewood College,1000 Edgewood College Drive,Madison,Wisconsin,www.edgewood.edu,53711-1997,-89.422122,43.058727,Doctoral/Research Universities
+141334,University of West Georgia,1601 Maple St,Carrollton,Georgia,www.westga.edu,30118-0001,-85.099007,33.574421,Master's Colleges and Universities (larger programs)
+193070,Mesivtha Tifereth Jerusalem of America,145 E Broadway,New York,New York,,10002-6301,-73.991271,40.713812,"Theological seminaries, Bible colleges, and other faith-related institutions"
+480781,California Miramar University,"9750 Miramar Road, Suite 180",San Diego,California,www.calmu.edu,92126,-117.119351,32.89422,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+164447,American International College,1000 State Street,Springfield,Massachusetts,www.aic.edu,1109,-72.558507,42.112708,Master's Colleges and Universities (larger programs)
+240727,University of Wyoming,Corner of Ninth and Ivinson,Laramie,Wyoming,www.uwyo.edu,82071,-105.57204,41.311943,Research Universities (high research activity)
+240453,University of Wisconsin-Milwaukee,2200 E Kenwood Blvd,Milwaukee,Wisconsin,www.uwm.edu,53201-0413,-87.880488,43.076848,Research Universities (high research activity)
+450535,Argosy University-Nashville,"100 Centerview Dr, Suite 225",Nashville,Tennessee,www.argosy.edu/nashville/,37214,-86.634674,36.154664,Other health professions schools
+225414,University of Houston-Clear Lake,2700 Bay Area Blvd,Houston,Texas,prtl.uhcl.edu/portal/page/portal/HOMEPAGE,77058-1002,-95.098129,29.582523,Master's Colleges and Universities (larger programs)
+142115,Boise State University,1910 University Dr,Boise,Idaho,www.boisestate.edu,83725,-116.205789,43.604403,Master's Colleges and Universities (larger programs)
+216597,Villanova University,800 Lancaster Avenue,Villanova,Pennsylvania,www.villanova.edu,19085-1699,-75.345457,40.039388,Master's Colleges and Universities (larger programs)
+227368,The University of Texas-Pan American,1201 W University Dr,Edinburg,Texas,www.utpa.edu,78539-2999,-98.172112,26.306629,Master's Colleges and Universities (larger programs)
+122931,Santa Clara University,500 El Camino Real,Santa Clara,California,www.scu.edu,95053,-121.938189,37.352706,Master's Colleges and Universities (larger programs)
+232423,James Madison University,800 South Main Street,Harrisonburg,Virginia,www.jmu.edu/,22807,-78.871663,38.435332,Master's Colleges and Universities (larger programs)
+131159,American University,4400 Massachusetts Ave NW,Washington,District of Columbia,WWW.AMERICAN.EDU,20016-8001,-77.090106,38.937802,Doctoral/Research Universities
+163578,Notre Dame of Maryland University,4701 N Charles St,Baltimore,Maryland,www.ndm.edu,21210-2476,-76.619701,39.351307,Master's Colleges and Universities (larger programs)
+110778,Sofia University,1069 East Meadow Cr,Palo Alto,California,www.sofia.edu,94303,-122.10866,37.430325,Other health professions schools
+175856,Jackson State University,1440 J R Lynch Street,Jackson,Mississippi,www.jsums.edu,39217,-90.20663,32.296781,Research Universities (high research activity)
+170286,Hillsdale College,33 E College St,Hillsdale,Michigan,www.hillsdale.edu,49242,-84.632691,41.931418,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+132842,Carlos Albizu University-Miami,2173 N.W.  99th Avenue,Miami,Florida,www.albizu.edu,33172-2209,-80.355002,25.795162,Master's Colleges and Universities (medium programs)
+148496,Dominican University,7900 W Division Street,River Forest,Illinois,www.dom.edu/,60305,-87.821872,41.902834,Master's Colleges and Universities (larger programs)
+145770,Argosy University-Chicago,"225 N. Michigan Ave, Ste 1300",Chicago,Illinois,www.argosy.edu/chicago,60601,-87.623772,41.886006,Doctoral/Research Universities
+206604,Wright State University-Main Campus,3640 Colonel Glenn Highway,Dayton,Ohio,www.wright.edu,45435-0001,-84.064881,39.780634,Research Universities (high research activity)
+134130,University of Florida,,Gainesville,Florida,www.ufl.edu/,32611,-82.361195,29.638248,Research Universities (very high research activity)
+207582,Oral Roberts University,7777 S Lewis Ave.,Tulsa,Oklahoma,oru.edu,74171,-95.954215,36.050705,Master's Colleges and Universities (smaller programs)
+215062,University of Pennsylvania,34th & Spruce Street,Philadelphia,Pennsylvania,www.upenn.edu,19104-6303,-75.193618,39.951002,Research Universities (very high research activity)
+131520,Howard University,2400 Sixth St NW,Washington,District of Columbia,www.howard.edu,20059-0001,-77.019478,38.920739,Research Universities (high research activity)
+234076,University of Virginia-Main Campus,1827 University Avenue,Charlottesville,Virginia,www.virginia.edu/,22903-2628,-78.502599,38.036546,Research Universities (very high research activity)
+100706,University of Alabama in Huntsville,301 Sparkman Dr,Huntsville,Alabama,www.uah.edu,35899,-86.63842,34.722818,Research Universities (very high research activity)
+420866,Argosy University-Schaumburg,"999 North Plaza Dr., Suite 111",Schaumburg,Illinois,www.argosy.edu/schaumburg,60173-5403,-88.042083,42.046739,Other health professions schools
+206695,Youngstown State University,One University Plaza,Youngstown,Ohio,www.ysu.edu,44555-0001,-80.646515,41.105583,Master's Colleges and Universities (larger programs)
+234915,City University of Seattle,"521 Wall Street, Suite 100",Seattle,Washington,www.cityu.edu,98121,-122.344331,47.61734,Master's Colleges and Universities (larger programs)
+186371,Rutgers University-Camden,406 Penn,Camden,New Jersey,www.rutgers.edu,8102,-75.125303,39.948628,Master's Colleges and Universities (medium programs)
+242653,Inter American University of Puerto Rico-Metro,Highway #1 Km 16 3 Corner Francisco Sein St,San Juan,Puerto Rico,www.metro.inter.edu/index.asp,919,-66.05546,18.376587,Doctoral/Research Universities
+209807,Portland State University,724 SW Harrison,Portland,Oregon,www.pdx.edu,97201,-122.683553,45.511229,Research Universities (high research activity)
+196079,SUNY at Binghamton,4400 Vestal Parkway East,Vestal,New York,www.binghamton.edu,13850-6000,-75.971143,42.088049,Research Universities (high research activity)
+131520,Howard University,2400 Sixth St NW,Washington,District of Columbia,www.howard.edu,20059-0001,-77.019478,38.920739,Research Universities (high research activity)
+148487,Roosevelt University,430 S Michigan Ave,Chicago,Illinois,www.roosevelt.edu,60605-1394,-87.624952,41.876055,Master's Colleges and Universities (larger programs)
+102553,University of Alaska Anchorage,3211 Providence Drive,Anchorage,Alaska,www.uaa.alaska.edu,99508,-149.826135,61.189554,Master's Colleges and Universities (larger programs)
+206084,University of Toledo,2801 W Bancroft,Toledo,Ohio,www.utoledo.edu/,43606-3390,-83.615225,41.65795,Research Universities (high research activity)
+126827,Colorado Technical University-Colorado Springs,4435 N Chestnut Street,Colorado Springs,Colorado,www.coloradotech.edu/Colorado-Springs,80907-3812,-104.833928,38.894265,Doctoral/Research Universities
+127060,University of Denver,2199 S. University Blvd,Denver,Colorado,www.du.edu,80208,-104.964625,39.695954,Research Universities (high research activity)
+165015,Brandeis University,415 South St,Waltham,Massachusetts,www.brandeis.edu/,02454-9110,-71.254716,42.364947,Research Universities (very high research activity)
+159647,Louisiana Tech University,305 Wisteria,Ruston,Louisiana,www.latech.edu,71272,-92.64964,32.525518,Research Universities (high research activity)
+192749,Manhattanville College,2900 Purchase St,Purchase,New York,www.manhattanville.edu,10577,-73.718316,41.031054,Master's Colleges and Universities (larger programs)
+178396,University of Missouri-Columbia,105 Jesse Hall,Columbia,Missouri,missouri.edu/,65211,-92.326429,38.941015,Research Universities (very high research activity)
+128771,Central Connecticut State University,1615 Stanley St,New Britain,Connecticut,www.ccsu.edu,6050,-72.770094,41.690258,Master's Colleges and Universities (larger programs)
+447272,Argosy University-Los Angeles,"5230 Pacific Concourse, Suite 200",Los Angeles,California,www.argosy.edu/los-angeles-california/default.aspx,90045,-118.373038,33.927857,Baccalaureate Colleges--Arts & Sciences
+152099,Oakland City University,138 N Lucretia St,Oakland City,Indiana,www.oak.edu,47660-1099,-87.351611,38.339606,Master's Colleges and Universities (medium programs)
+213826,Marywood University,2300 Adams Ave,Scranton,Pennsylvania,www.marywood.edu/,18509-1598,-75.633996,41.434978,Master's Colleges and Universities (larger programs)
+219082,Dakota State University,820 N Washington Ave,Madison,South Dakota,www.dsu.edu,57042-1799,-97.109609,44.0127,Master's Colleges and Universities (smaller programs)
+221838,Tennessee State University,3500 John A. Merritt Blvd,Nashville,Tennessee,www.tnstate.edu,37209-1561,-86.82937,36.16899,Doctoral/Research Universities
+167057,The New England Conservatory of Music,290 Huntington Ave,Boston,Massachusetts,necmusic.edu,02115-5018,-71.086321,42.340998,"Schools of art, music, and design"
+216694,Waynesburg University,51 W College St,Waynesburg,Pennsylvania,www.waynesburg.edu,15370-1257,-80.18727,39.899419,Master's Colleges and Universities (larger programs)
+174783,Saint Cloud State University,720 Fourth Ave. South,Saint Cloud,Minnesota,www.stcloudstate.edu,56301-4498,-94.153,45.552418,Master's Colleges and Universities (larger programs)
+180461,Montana State University,Montana State University,Bozeman,Montana,www.montana.edu/,59717,-111.049918,45.666829,Research Universities (very high research activity)
+101189,Faulkner University,5345 Atlanta Hwy,Montgomery,Alabama,www.faulkner.edu,36109-3390,-86.21641,32.384181,Baccalaureate Colleges--Diverse Fields
+238430,Cardinal Stritch University,6801 N Yates Rd,Milwaukee,Wisconsin,www.stritch.edu,53217-3985,-87.909045,43.139752,Doctoral/Research Universities
+111948,Chapman University,One University Dr.,Orange,California,www.chapman.edu,92866,-117.851481,33.793678,Master's Colleges and Universities (larger programs)
+209612,Pacific University,2043 College Way,Forest Grove,Oregon,www.pacificu.edu,97116,-123.108777,45.521394,Master's Colleges and Universities (larger programs)
+102049,Samford University,800 Lakeshore Drive,Birmingham,Alabama,www.samford.edu,35229-2240,-86.790932,33.464578,Master's Colleges and Universities (medium programs)
+197735,Yeshivath Viznitz,25 Phyllis Terrace,Monsey,New York,,10952,-74.066431,41.118499,"Theological seminaries, Bible colleges, and other faith-related institutions"
+178208,Midwestern Baptist Theological Seminary,5001 N. Oak Trafficway,Kansas City,Missouri,https://www.mbts.edu,64118-4697,-94.573185,39.185691,"Theological seminaries, Bible colleges, and other faith-related institutions"
+220075,East Tennessee State University,1276 Gilbreath Drive,Johnson City,Tennessee,www.etsu.edu,37614,-82.367984,36.304416,Doctoral/Research Universities
+215132,University of the Sciences,600 South 43rd Street,Philadelphia,Pennsylvania,www.usciences.edu,19104-4495,-75.208241,39.946552,Other health professions schools
+483124,Arizona State University-Skysong,1475 N Scottsdale Road - Ste 200,Scottsdale,Arizona,www.asu.edu/,85257,-111.924051,33.46268,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+224554,Texas A & M University-Commerce,2600 South Neal,Commerce,Texas,www.tamuc.edu/,75429-3011,-95.906913,33.243814,Doctoral/Research Universities
+215293,University of Pittsburgh-Pittsburgh Campus,4200 Fifth Avenue,Pittsburgh,Pennsylvania,www.pitt.edu,15260,-79.954692,40.444502,Research Universities (very high research activity)
+437097,University of Management and Technology,"1901 Fort Myer Drive, Suite 700",Arlington,Virginia,www.umtweb.edu,22209-1609,-77.072001,38.89742,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+142285,University of Idaho,875 Perimeter Drive,Moscow,Idaho,www.uidaho.edu,83844-2282,-117.024296,46.726894,Research Universities (high research activity)
+164988,Boston University,One Silber Way,Boston,Massachusetts,www.bu.edu,2215,-71.09984,42.349581,Research Universities (very high research activity)
+228459,Texas State University,601 University Dr,San Marcos,Texas,www.txstate.edu,78666,-97.936392,29.889202,Master's Colleges and Universities (larger programs)
+211273,Bryn Mawr College,101 N Merion Avenue,Bryn Mawr,Pennsylvania,www.brynmawr.edu,19010,-75.314988,40.028541,Baccalaureate Colleges--Arts & Sciences
+228705,Texas A & M University-Kingsville,955 University Blvd,Kingsville,Texas,WWW.TAMUK.EDU,78363,-97.882342,27.524852,Doctoral/Research Universities
+185828,New Jersey Institute of Technology,University Heights,Newark,New Jersey,www.njit.edu/,7102,-74.177113,40.741997,Research Universities (high research activity)
+139940,Georgia State University,33 gilmer st,Atlanta,Georgia,www.gsu.edu,30303-3083,-84.38667,33.7527,Research Universities (very high research activity)
+228149,St Mary's University,One Camino Santa Maria,San Antonio,Texas,www.stmarytx.edu/,78228,-98.564307,29.451793,Master's Colleges and Universities (larger programs)
+145813,Illinois State University,North and School Streets,Normal,Illinois,illinoisstate.edu/,61790-1000,-88.99234,40.509724,Doctoral/Research Universities
+193070,Mesivtha Tifereth Jerusalem of America,145 E Broadway,New York,New York,,10002-6301,-73.991271,40.713812,"Theological seminaries, Bible colleges, and other faith-related institutions"
+212106,Duquesne University,Administration Bldg 600 Forbes Ave,Pittsburgh,Pennsylvania,www.duq.edu,15282,-79.993046,40.437496,Research Universities (high research activity)
+157793,Sullivan University,3101 Bardstown Rd,Louisville,Kentucky,www.sullivan.edu,40205-3013,-85.670489,38.212824,Master's Colleges and Universities (medium programs)
+144050,University of Chicago,5801 S Ellis Ave,Chicago,Illinois,WWW.UCHICAGO.EDU,60637,-87.601196,41.78917,Research Universities (very high research activity)
+166452,Lesley University,29 Everett St,Cambridge,Massachusetts,www.lesley.edu,02138-2790,-71.115601,42.378429,Master's Colleges and Universities (larger programs)
+204857,Ohio University-Main Campus,020 Chubb Hall,Athens,Ohio,www.ohio.edu,45701-2979,-82.101064,39.326799,Research Universities (high research activity)
+132903,University of Central Florida,4000 Central Florida Blvd,Orlando,Florida,www.ucf.edu/,32816,-81.198805,28.60106,Research Universities (very high research activity)
+139755,Georgia Institute of Technology-Main Campus,225 North Ave,Atlanta,Georgia,www.gatech.edu,30332-0530,-84.396019,33.773732,Research Universities (very high research activity)
+121983,Argosy University-San Francisco Bay Area,1005 Atlantic Avenue,Alameda,California,www.argosy.edu/sanfrancisco,94501,-122.267523,37.781238,Other health professions schools
+234915,City University of Seattle,"521 Wall Street, Suite 100",Seattle,Washington,www.cityu.edu,98121,-122.344331,47.61734,Master's Colleges and Universities (larger programs)
+160621,Southern University and A & M College,"3rd Floor, J.S. Clark Adm. Building, P.O. Box 9374",Baton Rouge,Louisiana,www.subr.edu,70813,-91.196588,30.527133,Master's Colleges and Universities (larger programs)
+193900,New York University,70 Washington Sq South,New York,New York,www.nyu.edu,10012-1091,-73.997264,40.729452,Research Universities (very high research activity)
+100706,University of Alabama in Huntsville,301 Sparkman Dr,Huntsville,Alabama,www.uah.edu,35899,-86.63842,34.722818,Research Universities (very high research activity)
+219806,Carson-Newman University,1646 S Russell Ave,Jefferson City,Tennessee,www.cn.edu,37760,-83.492183,36.122224,Baccalaureate Colleges--Diverse Fields
+199102,North Carolina A & T State University,1601 E Market  St,Greensboro,North Carolina,www.ncat.edu,27411,-79.770152,36.076737,Doctoral/Research Universities
+141574,University of Hawaii at Manoa,"2500 Campus Road, Hawaii Hall",Honolulu,Hawaii,manoa.hawaii.edu,96822-2217,-157.816607,21.292648,Research Universities (very high research activity)
+196088,University at Buffalo,12 Capen Hall,Buffalo,New York,www.buffalo.edu,14260-1660,-78.790103,43.001433,Research Universities (very high research activity)
+219356,South Dakota State University,Administration Lane,Brookings,South Dakota,www.sdstate.edu/,57007-1898,-96.783415,44.31942,Research Universities (high research activity)
+135726,University of Miami,University of Miami,Coral Gables,Florida,www.miami.edu/,33146,-80.27645,25.720406,Research Universities (very high research activity)
+159373,Louisiana State University Health Sciences Center-New Orleans,433 Bolivar St,New Orleans,Louisiana,www.lsuhsc.edu,70112-2223,-90.083145,29.957272,Medical schools and medical centers
+172608,Walsh College of Accountancy and Business Administration,3838 Livernois,Troy,Michigan,www.walshcollege.edu,48083-5066,-83.147197,42.573888,Schools of business and management
+122931,Santa Clara University,500 El Camino Real,Santa Clara,California,www.scu.edu,95053,-121.938189,37.352706,Master's Colleges and Universities (larger programs)
+177339,Evangel University,1111 N Glenstone,Springfield,Missouri,www.evangel.edu,65802-2125,-93.262614,37.220956,Baccalaureate Colleges--Diverse Fields
+229300,The University of Texas Health Science Center at Houston,7000 Fannin,Houston,Texas,www.uth.edu/,77030,-95.403183,29.702873,Medical schools and medical centers
+228149,St Mary's University,One Camino Santa Maria,San Antonio,Texas,www.stmarytx.edu/,78228,-98.564307,29.451793,Master's Colleges and Universities (larger programs)
+407009,Arizona State University-West,4701 W Thunderbird Road,Glendale,Arizona,www.asu.edu/,85306,-112.160021,33.60726,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+160065,Our Lady of Holy Cross College,4123 Woodland Drive,New Orleans,Louisiana,www.olhcc.edu,70131-7399,-89.997055,29.912539,Master's Colleges and Universities (smaller programs)
+129020,University of Connecticut,352 Mansfield Road,Storrs,Connecticut,uconn.edu/,6269,-72.249519,41.808205,Research Universities (very high research activity)
+236939,Washington State University,French Administration Building,Pullman,Washington,wsu.edu/,99164-5910,-117.158168,46.730448,Research Universities (very high research activity)
+162584,Frostburg State University,101 Braddock Road,Frostburg,Maryland,www.frostburg.edu,21532-1099,-78.933871,39.651509,Master's Colleges and Universities (larger programs)
+193654,The New School,66 W 12th Street,New York,New York,www.newschool.edu/,10011-8603,-73.994636,40.735275,Doctoral/Research Universities
+450535,Argosy University-Nashville,"100 Centerview Dr, Suite 225",Nashville,Tennessee,www.argosy.edu/nashville/,37214,-86.634674,36.154664,Other health professions schools
+155399,Kansas State University,Anderson Hall,Manhattan,Kansas,www.k-state.edu,66506,-96.581077,39.188616,Research Universities (high research activity)
+235316,Gonzaga University,E 502 Boone Ave,Spokane,Washington,www.gonzaga.edu,99258-0001,-117.403062,47.668144,Master's Colleges and Universities (larger programs)
+141334,University of West Georgia,1601 Maple St,Carrollton,Georgia,www.westga.edu,30118-0001,-85.099007,33.574421,Master's Colleges and Universities (larger programs)
+172608,Walsh College of Accountancy and Business Administration,3838 Livernois,Troy,Michigan,www.walshcollege.edu,48083-5066,-83.147197,42.573888,Schools of business and management
+190594,CUNY Hunter College,695 Park Ave,New York,New York,www.hunter.cuny.edu,10065,-73.964795,40.768669,Master's Colleges and Universities (larger programs)
+132471,Barry University,11300 NE 2nd Ave,Miami,Florida,www.barry.edu,33161-6695,-80.196136,25.878865,Doctoral/Research Universities
+162928,Johns Hopkins University,"3400 N Charles St, Mason Hall",Baltimore,Maryland,www.jhu.edu,21218-2688,-76.620799,39.32838,Research Universities (very high research activity)
+174233,University of Minnesota-Duluth,515 Darland Administration Bldg,Duluth,Minnesota,www.d.umn.edu/,55812,-92.085177,46.818896,Master's Colleges and Universities (medium programs)
+133951,Florida International University,11200 S. W. 8 Street,Miami,Florida,www.fiu.edu,33199,-80.377591,25.757111,Research Universities (high research activity)
+117636,Loma Linda University,11139 Anderson Street,Loma Linda,California,www.llu.edu/index.html,92350,-117.261056,34.051518,Medical schools and medical centers
+226091,Lamar University,4400 MLK Blvd,Beaumont,Texas,www.lamar.edu,77705,-94.073389,30.044274,Doctoral/Research Universities
+229300,The University of Texas Health Science Center at Houston,7000 Fannin,Houston,Texas,www.uth.edu/,77030,-95.403183,29.702873,Medical schools and medical centers
+217633,Anderson University,316 Boulevard,Anderson,South Carolina,www.andersonuniversity.edu,29621-4035,-82.640205,34.515506,Baccalaureate Colleges--Diverse Fields
+445188,University of California-Merced,5200 North Lake Road,Merced,California,www.ucmerced.edu,95343-5603,-120.424944,37.366237,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+110705,University of California-Santa Barbara,5221 Cheadle Hall,Santa Barbara,California,www.ucsb.edu,93106,-119.848031,34.415402,Research Universities (very high research activity)
+228459,Texas State University,601 University Dr,San Marcos,Texas,www.txstate.edu,78666,-97.936392,29.889202,Master's Colleges and Universities (larger programs)
+112075,Concordia University-Irvine,1530 Concordia West,Irvine,California,www.cui.edu,92612-3203,-117.81063,33.6535,Master's Colleges and Universities (larger programs)
+206604,Wright State University-Main Campus,3640 Colonel Glenn Highway,Dayton,Ohio,www.wright.edu,45435-0001,-84.064881,39.780634,Research Universities (high research activity)
+211981,Delaware Valley University,700 E Butler Ave,Doylestown,Pennsylvania,www.delval.edu,18901-2697,-75.158202,40.29757,Baccalaureate Colleges--Diverse Fields
+100751,The University of Alabama,739 University Blvd,Tuscaloosa,Alabama,www.ua.edu/,35487-0166,-87.545766,33.2144,Research Universities (high research activity)
+131159,American University,4400 Massachusetts Ave NW,Washington,District of Columbia,WWW.AMERICAN.EDU,20016-8001,-77.090106,38.937802,Doctoral/Research Universities
+166513,University of Massachusetts-Lowell,1 University Ave,Lowell,Massachusetts,www.uml.edu,01854-5104,-71.325081,42.65372,Research Universities (high research activity)
+211024,Baptist Bible College & Seminary of Pennsylvania,538 Venard Rd,Clarks Summit,Pennsylvania,www.bbc.edu,18411-1250,-75.683551,41.496219,"Theological seminaries, Bible colleges, and other faith-related institutions"
+153658,University of Iowa,101 Jessup Hall,Iowa City,Iowa,www.uiowa.edu,52242-1316,-91.535698,41.660695,Research Universities (very high research activity)
+157793,Sullivan University,3101 Bardstown Rd,Louisville,Kentucky,www.sullivan.edu,40205-3013,-85.670489,38.212824,Master's Colleges and Universities (medium programs)
+204796,Ohio State University-Main Campus,190 N. Oval Mall,Columbus,Ohio,www.osu.edu/,43210,-83.009001,39.998389,Research Universities (very high research activity)
+173160,Bethel University,3900 Bethel Dr,Saint Paul,Minnesota,www.bethel.edu,55112,-93.159295,45.057091,Master's Colleges and Universities (larger programs)
+121150,Pepperdine University,24255 Pacific Coast Hwy,Malibu,California,www.pepperdine.edu/,90263,-118.707677,34.041912,Doctoral/Research Universities
+228644,The University of Texas Health Science Center at San Antonio,7703 Floyd Curl Dr,San Antonio,Texas,www.uthscsa.edu,78229-3900,-98.57606,29.504716,Medical schools and medical centers
+206695,Youngstown State University,One University Plaza,Youngstown,Ohio,www.ysu.edu,44555-0001,-80.646515,41.105583,Master's Colleges and Universities (larger programs)
+138947,Clark Atlanta University,"223 James P Brawley Drive, S.W.",Atlanta,Georgia,www.cau.edu,30314-4391,-84.412818,33.748772,Doctoral/Research Universities
+176372,University of Southern Mississippi,118 College Drive # 0001,Hattiesburg,Mississippi,www.usm.edu,39406-0001,-89.33791,31.327499,Research Universities (high research activity)
+126818,Colorado State University-Fort Collins,102 Administration Building,Fort Collins,Colorado,www.colostate.edu,80523-0100,-105.08083,40.574759,Research Universities (very high research activity)
+459727,Touro University Worldwide,10601 Calle Lee  #179,Los Alamitos,California,www.tuw.edu,90720,-118.057671,33.80843,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+191205,Five Towns College,305 North Service Road,Dix Hills,New York,www.ftc.edu,11746-5871,-73.369968,40.793327,Baccalaureate Colleges--Diverse Fields
+176372,University of Southern Mississippi,118 College Drive # 0001,Hattiesburg,Mississippi,www.usm.edu,39406-0001,-89.33791,31.327499,Research Universities (high research activity)
+436438,Argosy University-Orange County,601 South Lewis Street,Orange,California,www.argosy.edu/orange-county-southern-california/default.aspx,92868,-117.897468,33.779113,Doctoral/Research Universities
+224226,Dallas Baptist University,3000 Mountain Creek Parkway,Dallas,Texas,www.dbu.edu,75211-9299,-96.947006,32.710017,Master's Colleges and Universities (larger programs)
+110608,California State University-Northridge,18111 Nordhoff St,Northridge,California,www.csun.edu,91330,-118.526817,34.23671,Master's Colleges and Universities (larger programs)
+187967,New Mexico Institute of Mining and Technology,801 Leroy Place,Socorro,New Mexico,www.nmt.edu,87801,-106.907491,34.066035,Master's Colleges and Universities (medium programs)
+198419,Duke University,103 Allen Bldg,Durham,North Carolina,WWW.DUKE.EDU,27708,-78.94226,36.00159,Research Universities (very high research activity)
+110778,Sofia University,1069 East Meadow Cr,Palo Alto,California,www.sofia.edu,94303,-122.10866,37.430325,Other health professions schools
+179159,Saint Louis University,One North Grand Blvd,Saint Louis,Missouri,www.slu.edu,63103-2097,-90.23381,38.634548,Research Universities (high research activity)
+212133,Eastern University,1300 Eagle Rd,Saint Davids,Pennsylvania,www.eastern.edu/about/student-consumer-information,19087-3696,-75.370268,40.052306,Master's Colleges and Universities (larger programs)
+102553,University of Alaska Anchorage,3211 Providence Drive,Anchorage,Alaska,www.uaa.alaska.edu,99508,-149.826135,61.189554,Master's Colleges and Universities (larger programs)
+159993,University of Louisiana at Monroe,700 University Avenue,Monroe,Louisiana,www.ulm.edu,71209-0000,-92.073855,32.527957,Master's Colleges and Universities (larger programs)
+131496,Georgetown University,37th and O St NW,Washington,District of Columbia,www.georgetown.edu,20057-0001,-77.073463,38.908809,Research Universities (very high research activity)
+162007,Bowie State University,14000 Jericho Park Rd,Bowie,Maryland,www.bowiestate.edu,20715-9465,-76.759721,39.018185,Doctoral/Research Universities
+184348,Drew University,36 Madison Ave,Madison,New Jersey,www.drew.edu,7940,-74.425825,40.757026,Baccalaureate Colleges--Arts & Sciences
+178208,Midwestern Baptist Theological Seminary,5001 N. Oak Trafficway,Kansas City,Missouri,https://www.mbts.edu,64118-4697,-94.573185,39.185691,"Theological seminaries, Bible colleges, and other faith-related institutions"
+170286,Hillsdale College,33 E College St,Hillsdale,Michigan,www.hillsdale.edu,49242,-84.632691,41.931418,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+139940,Georgia State University,33 gilmer st,Atlanta,Georgia,www.gsu.edu,30303-3083,-84.38667,33.7527,Research Universities (very high research activity)
+152080,University of Notre Dame,400 Main Building,Notre Dame,Indiana,www.nd.edu,46556,-86.238959,41.703058,Research Universities (very high research activity)
+101189,Faulkner University,5345 Atlanta Hwy,Montgomery,Alabama,www.faulkner.edu,36109-3390,-86.21641,32.384181,Baccalaureate Colleges--Diverse Fields
+100654,Alabama A & M University,4900 Meridian Street,Normal,Alabama,www.aamu.edu/,35762,-86.568502,34.783368,Master's Colleges and Universities (larger programs)
+217536,Salve Regina University,100 Ochre Point Avenue,Newport,Rhode Island,www.salve.edu,02840-4192,-71.301125,41.471445,Master's Colleges and Universities (medium programs)
+183910,Caldwell University,120 Bloomfield Avenue,Caldwell,New Jersey,www.caldwell.edu,07006-6195,-74.273697,40.834285,Master's Colleges and Universities (medium programs)
+215132,University of the Sciences,600 South 43rd Street,Philadelphia,Pennsylvania,www.usciences.edu,19104-4495,-75.208241,39.946552,Other health professions schools
+127741,University of Northern Colorado,Carter Hall - Rm 4000,Greeley,Colorado,www.unco.edu,80639,-104.701721,40.403178,Doctoral/Research Universities
+200280,University of North Dakota,"264 Centennial Drive, Stop 8193",Grand Forks,North Dakota,und.edu,58202-8193,-97.070823,47.921881,Research Universities (high research activity)
+148584,University of St Francis,500 N Wilcox St,Joliet,Illinois,www.stfrancis.edu,60435-6188,-88.096368,41.533341,Master's Colleges and Universities (larger programs)
+437097,University of Management and Technology,"1901 Fort Myer Drive, Suite 700",Arlington,Virginia,www.umtweb.edu,22209-1609,-77.072001,38.89742,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+190567,CUNY City College,160 Convent Ave,New York,New York,www.ccny.cuny.edu,10031,-73.95055,40.819794,Master's Colleges and Universities (larger programs)
+216694,Waynesburg University,51 W College St,Waynesburg,Pennsylvania,www.waynesburg.edu,15370-1257,-80.18727,39.899419,Master's Colleges and Universities (larger programs)
+204857,Ohio University-Main Campus,020 Chubb Hall,Athens,Ohio,www.ohio.edu,45701-2979,-82.101064,39.326799,Research Universities (high research activity)
+216931,Wilkes University,84 West South Street,Wilkes-Barre,Pennsylvania,www.wilkes.edu,18766,-75.88833,41.243204,Master's Colleges and Universities (larger programs)
+181394,University of Nebraska at Omaha,6001 Dodge St,Omaha,Nebraska,www.unomaha.edu,68182-0225,-96.010797,41.257746,Doctoral/Research Universities
+196088,University at Buffalo,12 Capen Hall,Buffalo,New York,www.buffalo.edu,14260-1660,-78.790103,43.001433,Research Universities (very high research activity)
+163532,Ner Israel Rabbinical College,400 Mount Wilson Ln,Baltimore,Maryland,,21208,-76.751799,39.387771,"Theological seminaries, Bible colleges, and other faith-related institutions"
+141264,Valdosta State University,1500 N Patterson St,Valdosta,Georgia,www.valdosta.edu,31698,-83.289925,30.849236,Master's Colleges and Universities (larger programs)
+454829,Aspen University,720 S Colorado Blvd Ste 1150N,Denver,Colorado,www.aspen.edu,80246,-104.939873,39.703696,Master's Colleges and Universities (medium programs)
+145770,Argosy University-Chicago,"225 N. Michigan Ave, Ste 1300",Chicago,Illinois,www.argosy.edu/chicago,60601,-87.623772,41.886006,Doctoral/Research Universities
+102094,University of South Alabama,307 N University Blvd,Mobile,Alabama,www.southalabama.edu,36688-0002,-88.18189,30.695081,Research Universities (high research activity)
+199139,University of North Carolina at Charlotte,9201 University City Blvd,Charlotte,North Carolina,www.uncc.edu,28223-0001,-80.73579,35.306834,Doctoral/Research Universities
+233921,Virginia Polytechnic Institute and State University,"210 Burruss Hall, 800 Drillfield Dr.",Blacksburg,Virginia,WWW.VT.EDU,24061-0131,-80.434848,37.237477,Research Universities (very high research activity)
+190594,CUNY Hunter College,695 Park Ave,New York,New York,www.hunter.cuny.edu,10065,-73.964795,40.768669,Master's Colleges and Universities (larger programs)
+165015,Brandeis University,415 South St,Waltham,Massachusetts,www.brandeis.edu/,02454-9110,-71.254716,42.364947,Research Universities (very high research activity)
+229063,Texas Southern University,3100 Cleburne St,Houston,Texas,www.tsu.edu,77004,-95.361961,29.722468,Doctoral/Research Universities
+198543,Fayetteville State University,1200 Murchison Rd,Fayetteville,North Carolina,www.uncfsu.edu,28301-4298,-78.894709,35.072485,Master's Colleges and Universities (medium programs)
+230764,University of Utah,"201 Presidents Circle, ROOM 201",Salt Lake City,Utah,www.utah.edu,84112-9008,-111.846044,40.762484,Research Universities (very high research activity)
+220215,Freed-Hardeman University,158 E Main St,Henderson,Tennessee,www.fhu.edu,38340-2399,-88.639418,35.440073,Master's Colleges and Universities (medium programs)
+110653,University of California-Irvine,501 Aldrich Hall,Irvine,California,www.uci.edu/,92697,-117.841248,33.648434,Research Universities (very high research activity)
+232706,Marymount University,2807 N Glebe Rd,Arlington,Virginia,www.marymount.edu,22207-4224,-77.128799,38.905552,Master's Colleges and Universities (larger programs)
+131469,George Washington University,"2121 I Street, NW",Washington,District of Columbia,www.gwu.edu,20052,-77.047871,38.89865,Research Universities (very high research activity)
+188429,Adelphi University,South Ave,Garden City,New York,www.adelphi.edu/,11530-0701,-73.653321,40.721439,Doctoral/Research Universities
+160612,Southeastern Louisiana University,548 Ned McGehee Ave.,Hammond,Louisiana,www.southeastern.edu,70402,-90.468558,30.51358,Master's Colleges and Universities (larger programs)
+199193,North Carolina State University at Raleigh,2101 Hillsborough Street,Raleigh,North Carolina,www.ncsu.edu,27695-7001,-78.674517,35.785111,Research Universities (very high research activity)
+197735,Yeshivath Viznitz,25 Phyllis Terrace,Monsey,New York,,10952,-74.066431,41.118499,"Theological seminaries, Bible colleges, and other faith-related institutions"
+174817,Saint Mary's University of Minnesota,700 Terrace Heights,Winona,Minnesota,www.smumn.edu,55987-1399,-91.696652,44.045322,Doctoral/Research Universities
+230959,Middlebury College,Old Chapel,Middlebury,Vermont,www.middlebury.edu,5753,-73.176068,44.009117,Baccalaureate Colleges--Arts & Sciences
+110671,University of California-Riverside,900 University Ave,Riverside,California,WWW.UCR.EDU,92521,-117.331098,33.97588,Research Universities (very high research activity)
+220215,Freed-Hardeman University,158 E Main St,Henderson,Tennessee,www.fhu.edu,38340-2399,-88.639418,35.440073,Master's Colleges and Universities (medium programs)
+210775,Alvernia University,400 Saint Bernardine St,Reading,Pennsylvania,www.alvernia.edu,19607-1799,-75.938163,40.3102,Master's Colleges and Universities (medium programs)
+154235,Saint Ambrose University,518 W Locust St,Davenport,Iowa,www.sau.edu,52803-2898,-90.58098,41.540081,Master's Colleges and Universities (larger programs)
+159948,New Orleans Baptist Theological Seminary,3939 Gentilly Blvd,New Orleans,Louisiana,www.nobts.edu,70126,-90.043929,30.005105,"Theological seminaries, Bible colleges, and other faith-related institutions"
+232982,Old Dominion University,5115 Hampton Blvd,Norfolk,Virginia,www.odu.edu,23529,-76.309653,36.884919,Research Universities (high research activity)
+130943,University of Delaware,104 Hullihen Hall,Newark,Delaware,www.udel.edu/,19716,-75.7536,39.679791,Research Universities (very high research activity)
+106397,University of Arkansas,Administration Bldg 425,Fayetteville,Arkansas,www.uark.edu,72701,-94.178214,36.06153,Research Universities (very high research activity)
+414708,Baker College Center for Graduate Studies,1116 W Bristol Rd,Flint,Michigan,www.baker.edu,48507,-83.694495,42.974759,Master's Colleges and Universities (larger programs)
+190415,Cornell University,300 Day Hall,Ithaca,New York,www.cornell.edu,14853,-76.48269,42.445291,Research Universities (very high research activity)
+186618,College of Saint Elizabeth,2 Convent Rd,Morristown,New Jersey,www.cse.edu,07960-6989,-74.436039,40.781061,Master's Colleges and Universities (larger programs)
+201104,Ashland University,401 College Avenue,Ashland,Ohio,https://www.ashland.edu,44805,-82.320621,40.860987,Doctoral/Research Universities
+193654,The New School,66 W 12th Street,New York,New York,www.newschool.edu/,10011-8603,-73.994636,40.735275,Doctoral/Research Universities
+159948,New Orleans Baptist Theological Seminary,3939 Gentilly Blvd,New Orleans,Louisiana,www.nobts.edu,70126,-90.043929,30.005105,"Theological seminaries, Bible colleges, and other faith-related institutions"
+217925,Columbia International University,7435 Monticello Rd,Columbia,South Carolina,www.ciu.edu,29203-1513,-81.069502,34.081233,Master's Colleges and Universities (smaller programs)
+450933,Columbia Southern University,21982 University Lane,Orange Beach,Alabama,www.columbiasouthern.edu,36561-9000,-87.652505,30.330964,Master's Colleges and Universities (larger programs)
+207500,University of Oklahoma-Norman Campus,660 Parrington Oval,Norman,Oklahoma,www.ou.edu,73019-3072,-97.445692,35.208152,Research Universities (very high research activity)
+153603,Iowa State University,3410 Beardshear Hall,Ames,Iowa,www.iastate.edu,50011-2030,-93.648353,42.026368,Research Universities (very high research activity)
+236133,Northwest University,5520 108th Ave NE,Kirkland,Washington,www.northwestu.edu,98083-0579,-122.191505,47.657743,Baccalaureate Colleges--Diverse Fields
+157748,The Southern Baptist Theological Seminary,2825 Lexington Rd,Louisville,Kentucky,www.sbts.edu,40280-0001,-85.687649,38.248216,"Theological seminaries, Bible colleges, and other faith-related institutions"
+186371,Rutgers University-Camden,406 Penn,Camden,New Jersey,www.rutgers.edu,8102,-75.125303,39.948628,Master's Colleges and Universities (medium programs)
+172608,Walsh College of Accountancy and Business Administration,3838 Livernois,Troy,Michigan,www.walshcollege.edu,48083-5066,-83.147197,42.573888,Schools of business and management
+209542,Oregon State University,1500 S.W. Jefferson,Corvallis,Oregon,oregonstate.edu,97331,-123.274721,44.56274,Research Universities (very high research activity)
+183211,Rivier University,420 South Main St,Nashua,New Hampshire,www.rivier.edu,3060,-71.455466,42.738343,Master's Colleges and Universities (larger programs)
+482149,Georgia Regents University,1120 Fifteenth St,Augusta,Georgia,www.gru.edu,30912,-81.991376,33.471025,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+198695,High Point University,833 Montlieu Ave,High Point,North Carolina,www.highpoint.edu,27262-3598,-79.994545,35.972674,Baccalaureate Colleges--Diverse Fields
+186618,College of Saint Elizabeth,2 Convent Rd,Morristown,New Jersey,www.cse.edu,07960-6989,-74.436039,40.781061,Master's Colleges and Universities (larger programs)
+243568,Universidad Central Del Caribe,Ramon Ruiz Arnau University Hospital Laurel Ave,Bayamon,Puerto Rico,www.uccaribe.edu/,00960-6032,-66.154522,18.367405,Medical schools and medical centers
+106412,University of Arkansas at Pine Bluff,1200 N University Mail Slot 4789,Pine Bluff,Arkansas,www.uapb.edu,71601,-92.021263,34.242192,Baccalaureate Colleges--Diverse Fields
+198419,Duke University,103 Allen Bldg,Durham,North Carolina,WWW.DUKE.EDU,27708,-78.94226,36.00159,Research Universities (very high research activity)
+106245,University of Arkansas at Little Rock,2801 S University Ave,Little Rock,Arkansas,ualr.edu/www/,72204,-92.341835,34.726644,Doctoral/Research Universities
+199315,Piedmont International University,420 S. Broad St.,Winston Salem,North Carolina,www.piedmontu.edu,27101-5025,-80.249121,36.088839,"Theological seminaries, Bible colleges, and other faith-related institutions"
+138354,The University of West Florida,11000 University Parkway,Pensacola,Florida,uwf.edu,32514-5750,-87.218125,30.542855,Doctoral/Research Universities
+186584,Seton Hall University,400 S Orange Ave,South Orange,New Jersey,www.shu.edu,07079-2697,-74.248753,40.742859,Doctoral/Research Universities
+166683,Massachusetts Institute of Technology,77 Massachusetts Avenue,Cambridge,Massachusetts,web.mit.edu/student/,02139-4307,-71.092115,42.360095,Research Universities (very high research activity)
+145813,Illinois State University,North and School Streets,Normal,Illinois,illinoisstate.edu/,61790-1000,-88.99234,40.509724,Doctoral/Research Universities
+169798,Eastern Michigan University,202 Welch Hall,Ypsilanti,Michigan,www.emich.edu,48197,-83.624499,42.245751,Master's Colleges and Universities (larger programs)
+228635,University of Texas Southwestern Medical Center,5323 Harry Hines Blvd,Dallas,Texas,www.utsouthwestern.edu,75390-9096,-96.842311,32.819539,Medical schools and medical centers
+483586,California International Business University,520 W Ash Street Ste 300,San Diego,California,www.cibu.edu,92101,-117.167671,32.719889,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+170976,University of Michigan-Ann Arbor,503 Thompson Street,Ann Arbor,Michigan,www.umich.edu,48109,-83.74313,42.276172,Research Universities (very high research activity)
+120838,Pacific States University,3450 Wilshire Blvd. Suite 500,Los Angeles,California,www.psuca.edu,90010,-118.299841,34.0607,Schools of business and management
+150136,Ball State University,2000 University Ave,Muncie,Indiana,www.bsu.edu,47306,-85.408863,40.198942,Research Universities (high research activity)
+244190,Widener University-Delaware Campus,4601 Concord Pike,Wilmington,Delaware,www.widener.edu,19803,-75.548908,39.816493,Schools of law
+195720,Saint John Fisher College,3690 East Ave,Rochester,New York,www.sjfc.edu,14618-3597,-77.516979,43.117064,Doctoral/Research Universities
+231624,College of William and Mary,200 Richmond Road,Williamsburg,Virginia,www.wm.edu,23187-8795,-76.709395,37.27195,Research Universities (high research activity)
+228431,Stephen F Austin State University,"2008 Alumin Drive, Rusk 206",Nacogdoches,Texas,www.sfasu.edu,75961,-94.58546,31.58562,Master's Colleges and Universities (larger programs)
+200332,North Dakota State University-Main Campus,1301  12th Avenue North,Fargo,North Dakota,www.ndsu.edu,58108-6050,-96.805689,46.894523,Research Universities (very high research activity)
+428268,Argosy University-Tampa,1403 N. Howard Avenue,Tampa,Florida,www.argosy.edu/tampa,33607,-82.482545,27.955166,Master's Colleges and Universities (smaller programs)
+456348,Argosy University-Phoenix Online Division,2233 West Dunlap Avenue,Phoenix,Arizona,www.argosy.edu/phoenix,85021,-112.107494,33.566817,Baccalaureate Colleges--Arts & Sciences
+153861,Maharishi University of Management,1000 N 4th St,Fairfield,Iowa,www.mum.edu,52557,-91.967306,41.017781,Master's Colleges and Universities (larger programs)
+126775,Colorado School of Mines,1500 Illinois St,Golden,Colorado,www.mines.edu,80401,-105.227148,39.75079,Research Universities (high research activity)
+131496,Georgetown University,37th and O St NW,Washington,District of Columbia,www.georgetown.edu,20057-0001,-77.073463,38.908809,Research Universities (very high research activity)
+147013,McKendree University,701 College Rd,Lebanon,Illinois,www.mckendree.edu/prospective/admissions/index.aspx,62254-1291,-89.814486,38.609431,Master's Colleges and Universities (larger programs)
+187967,New Mexico Institute of Mining and Technology,801 Leroy Place,Socorro,New Mexico,www.nmt.edu,87801,-106.907491,34.066035,Master's Colleges and Universities (medium programs)
+245777,Bais Medrash Elyon,73 Main St,Monsey,New York,,10952,-74.06923,41.113974,"Theological seminaries, Bible colleges, and other faith-related institutions"
+232706,Marymount University,2807 N Glebe Rd,Arlington,Virginia,www.marymount.edu,22207-4224,-77.128799,38.905552,Master's Colleges and Universities (larger programs)
+212106,Duquesne University,Administration Bldg 600 Forbes Ave,Pittsburgh,Pennsylvania,www.duq.edu,15282,-79.993046,40.437496,Research Universities (high research activity)
+121983,Argosy University-San Francisco Bay Area,1005 Atlantic Avenue,Alameda,California,www.argosy.edu/sanfrancisco,94501,-122.267523,37.781238,Other health professions schools
+413413,Capella University,"225 South 6th Street, 9th Floor",Minneapolis,Minnesota,www.capella.edu,55402-3389,-93.268714,44.976186,Doctoral/Research Universities
+133553,Embry-Riddle Aeronautical University-Daytona Beach,600 S Clyde Morris Blvd,Daytona Beach,Florida,www.erau.edu,32114-3900,-81.0495,29.189244,Master's Colleges and Universities (medium programs)
+128744,University of Bridgeport,126 Park Avenue,Bridgeport,Connecticut,www.bridgeport.edu,06604-5620,-73.189352,41.165587,Master's Colleges and Universities (larger programs)
+195003,Rochester Institute of Technology,1 Lomb Memorial Dr,Rochester,New York,www.rit.edu/,14623-5603,-77.67521,43.090325,Master's Colleges and Universities (larger programs)
+148496,Dominican University,7900 W Division Street,River Forest,Illinois,www.dom.edu/,60305,-87.821872,41.902834,Master's Colleges and Universities (larger programs)
+228325,Southwestern Assemblies of God University,1200 Sycamore,Waxahachie,Texas,www.sagu.edu,75165,-96.85315,32.405477,Master's Colleges and Universities (smaller programs)
+159948,New Orleans Baptist Theological Seminary,3939 Gentilly Blvd,New Orleans,Louisiana,www.nobts.edu,70126,-90.043929,30.005105,"Theological seminaries, Bible colleges, and other faith-related institutions"
+196255,SUNY Downstate Medical Center,450 Clarkson Ave,Brooklyn,New York,www.downstate.edu/,11203-2098,-73.943827,40.655283,Medical schools and medical centers
+166683,Massachusetts Institute of Technology,77 Massachusetts Avenue,Cambridge,Massachusetts,web.mit.edu/student/,02139-4307,-71.092115,42.360095,Research Universities (very high research activity)
+211024,Baptist Bible College & Seminary of Pennsylvania,538 Venard Rd,Clarks Summit,Pennsylvania,www.bbc.edu,18411-1250,-75.683551,41.496219,"Theological seminaries, Bible colleges, and other faith-related institutions"
+157085,University of Kentucky,South Limestone,Lexington,Kentucky,www.uky.edu,40506-0032,-84.509177,38.032393,Research Universities (very high research activity)
+168421,Worcester Polytechnic Institute,100 Institute Road,Worcester,Massachusetts,www.wpi.edu,01609-2280,-71.808792,42.275067,Doctoral/Research Universities
+238430,Cardinal Stritch University,6801 N Yates Rd,Milwaukee,Wisconsin,www.stritch.edu,53217-3985,-87.909045,43.139752,Doctoral/Research Universities
+194718,Rabbinical Seminary M'kor Chaim,1571 55th St,Brooklyn,New York,,11219,-73.989649,40.627942,"Theological seminaries, Bible colleges, and other faith-related institutions"
+143118,Aurora University,347 S Gladstone Ave,Aurora,Illinois,aurora.edu,60506-4892,-88.349469,41.754465,Master's Colleges and Universities (larger programs)
+442222,Argosy University-Dallas,"5001 Lyndon B. Johnson Freeway, Heritage Square, Suite 230",Farmers Branch,Texas,www.argosy.edu/dallas/,75244,-96.823046,32.926742,Other health professions schools
+209612,Pacific University,2043 College Way,Forest Grove,Oregon,www.pacificu.edu,97116,-123.108777,45.521394,Master's Colleges and Universities (larger programs)
+454829,Aspen University,720 S Colorado Blvd Ste 1150N,Denver,Colorado,www.aspen.edu,80246,-104.939873,39.703696,Master's Colleges and Universities (medium programs)
+231651,Regent University,1000 Regent University Dr,Virginia Beach,Virginia,www.regent.edu,23464,-76.192844,36.800929,Doctoral/Research Universities
+110778,Sofia University,1069 East Meadow Cr,Palo Alto,California,www.sofia.edu,94303,-122.10866,37.430325,Other health professions schools
+105330,Northern Arizona University,"1900 S. Knoles Dr, Babbitt Administrative Center",Flagstaff,Arizona,nau.edu/,86011-4132,-111.657653,35.180095,Research Universities (high research activity)
+178396,University of Missouri-Columbia,105 Jesse Hall,Columbia,Missouri,missouri.edu/,65211,-92.326429,38.941015,Research Universities (very high research activity)
+107044,Harding University,915 E. Market Ave.,Searcy,Arkansas,www.harding.edu,72143,-91.729008,35.249605,Master's Colleges and Universities (larger programs)
+221740,The University of Tennessee-Chattanooga,615 McCallie Ave,Chattanooga,Tennessee,www.utc.edu,37403-2598,-85.299812,35.048247,Master's Colleges and Universities (larger programs)
+243601,Universidad Del Turabo,Carr. # 189 Km 3.3,Gurabo,Puerto Rico,www.suagm.edu/turabo,00778-3030,-66.006259,18.239647,Doctoral/Research Universities
+483586,California International Business University,520 W Ash Street Ste 300,San Diego,California,www.cibu.edu,92101,-117.167671,32.719889,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)"
+195128,The Sage Colleges,65 1st Street,Troy,New York,www.sage.edu,12180,-73.693711,42.72821,Master's Colleges and Universities (larger programs)
+228529,Tarleton State University,1333 W. Washington,Stephenville,Texas,www.tarleton.edu,76401-0000,-98.22008,32.215665,Master's Colleges and Universities (larger programs)
+157085,University of Kentucky,South Limestone,Lexington,Kentucky,www.uky.edu,40506-0032,-84.509177,38.032393,Research Universities (very high research activity)
+192749,Manhattanville College,2900 Purchase St,Purchase,New York,www.manhattanville.edu,10577,-73.718316,41.031054,Master's Colleges and Universities (larger programs)
+168254,Western New England University,1215 Wilbraham Rd,Springfield,Massachusetts,www.wne.edu,01119-2684,-72.518789,42.115837,Master's Colleges and Universities (medium programs)
+133881,Florida Institute of Technology,150 West University Boulevard,Melbourne,Florida,www.fit.edu,32901-6975,-80.624628,28.064503,Doctoral/Research Universities
+183026,Southern New Hampshire University,2500 North River Road,Manchester,New Hampshire,www.snhu.edu,03106-1045,-71.453938,43.039892,Master's Colleges and Universities (larger programs)
+171571,Oakland University,2200 North Squirrel Road,Rochester Hills,Michigan,www.oakland.edu,48309-4401,-83.218866,42.672586,Doctoral/Research Universities
+217882,Clemson University,201 Sikes Hall,Clemson,South Carolina,www.clemson.edu,29634,-82.834463,34.677329,Research Universities (high research activity)
+100858,Auburn University,"Auburn, Alabama",Auburn University,Alabama,www.auburn.edu,36849,-85.492409,32.600201,Research Universities (high research activity)
+215132,University of the Sciences,600 South 43rd Street,Philadelphia,Pennsylvania,www.usciences.edu,19104-4495,-75.208241,39.946552,Other health professions schools
+161457,University of New England,11 Hills Beach Rd,Biddeford,Maine,www.une.edu/,04005-9599,-70.385882,43.458172,Master's Colleges and Universities (larger programs)
+141565,University of Hawaii at Hilo,200 W Kawili St,Hilo,Hawaii,hilo.hawaii.edu,96720-4091,-155.081329,19.701854,Baccalaureate Colleges--Arts & Sciences
+215132,University of the Sciences,600 South 43rd Street,Philadelphia,Pennsylvania,www.usciences.edu,19104-4495,-75.208241,39.946552,Other health professions schools
+126614,University of Colorado Boulder,Regent Drive at Broadway,Boulder,Colorado,www.colorado.edu,80309-0017,-105.267061,40.004415,Research Universities (very high research activity)
+197708,Yeshiva University,500 W 185th St,New York,New York,www.yu.edu,10033-3299,-73.928541,40.8508,Research Universities (very high research activity)
+121983,Argosy University-San Francisco Bay Area,1005 Atlantic Avenue,Alameda,California,www.argosy.edu/sanfrancisco,94501,-122.267523,37.781238,Other health professions schools
+129525,University of Hartford,200 Bloomfield Ave,West Hartford,Connecticut,www.hartford.edu,06117-1599,-72.714965,41.796485,Master's Colleges and Universities (larger programs)
+450979,Trident University International,"5757 Plaza Drive, Suite 100",Cypress,California,www.trident.edu/,90630-5041,-118.034759,33.805244,Doctoral/Research Universities
+231174,University of Vermont,85 S Prospect St,Burlington,Vermont,www.uvm.edu,05405-0160,-73.198128,44.479262,Research Universities (high research activity)
+178411,Missouri University of Science and Technology,1870 Miner Circle,Rolla,Missouri,www.mst.edu/,65409,-91.7759,37.955853,Research Universities (high research activity)
+160658,University of Louisiana at Lafayette,104 University Circle,Lafayette,Louisiana,www.louisiana.edu,70503,-92.01941,30.215283,Research Universities (high research activity)
+198695,High Point University,833 Montlieu Ave,High Point,North Carolina,www.highpoint.edu,27262-3598,-79.994545,35.972674,Baccalaureate Colleges--Diverse Fields
+198543,Fayetteville State University,1200 Murchison Rd,Fayetteville,North Carolina,www.uncfsu.edu,28301-4298,-78.894709,35.072485,Master's Colleges and Universities (medium programs)
+176372,University of Southern Mississippi,118 College Drive # 0001,Hattiesburg,Mississippi,www.usm.edu,39406-0001,-89.33791,31.327499,Research Universities (high research activity)
+209542,Oregon State University,1500 S.W. Jefferson,Corvallis,Oregon,oregonstate.edu,97331,-123.274721,44.56274,Research Universities (very high research activity)
+234915,City University of Seattle,"521 Wall Street, Suite 100",Seattle,Washington,www.cityu.edu,98121,-122.344331,47.61734,Master's Colleges and Universities (larger programs)
+110529,California State Polytechnic University-Pomona,3801 West Temple Avenue,Pomona,California,www.csupomona.edu,91768,-117.819019,34.054273,Master's Colleges and Universities (larger programs)
+162584,Frostburg State University,101 Braddock Road,Frostburg,Maryland,www.frostburg.edu,21532-1099,-78.933871,39.651509,Master's Colleges and Universities (larger programs)
+230764,University of Utah,"201 Presidents Circle, ROOM 201",Salt Lake City,Utah,www.utah.edu,84112-9008,-111.846044,40.762484,Research Universities (very high research activity)
+199102,North Carolina A & T State University,1601 E Market  St,Greensboro,North Carolina,www.ncat.edu,27411,-79.770152,36.076737,Doctoral/Research Universities
+239503,Northland International University,W10085 Pike Plains Rd,Dunbar,Wisconsin,www.ni.edu,54119-9285,-88.095933,45.58114,Baccalaureate Colleges--Diverse Fields
+228802,The University of Texas at Tyler,3900 University Blvd,Tyler,Texas,www.uttyler.edu/,75799-6699,-95.249096,32.314724,Master's Colleges and Universities (larger programs)
+229337,Texas Tech University Health Sciences Center,3601 4th Street,Lubbock,Texas,www.ttuhsc.edu,79430,-101.89359,33.593227,Medical schools and medical centers
+245777,Bais Medrash Elyon,73 Main St,Monsey,New York,,10952,-74.06923,41.113974,"Theological seminaries, Bible colleges, and other faith-related institutions"
+190415,Cornell University,300 Day Hall,Ithaca,New York,www.cornell.edu,14853,-76.48269,42.445291,Research Universities (very high research activity)
+159993,University of Louisiana at Monroe,700 University Avenue,Monroe,Louisiana,www.ulm.edu,71209-0000,-92.073855,32.527957,Master's Colleges and Universities (larger programs)
+196097,Stony Brook University,310 Administration Building,Stony Brook,New York,www.stonybrook.edu,11794,-73.123595,40.913138,Research Universities (very high research activity)
+153603,Iowa State University,3410 Beardshear Hall,Ames,Iowa,www.iastate.edu,50011-2030,-93.648353,42.026368,Research Universities (very high research activity)
+154688,Baker University,618 Eighth Street,Baldwin City,Kansas,www.bakeru.edu,66006-0065,-95.188231,38.777278,Master's Colleges and Universities (larger programs)
+443049,Faith Evangelical College & Seminary,3504 N Pearl St,Tacoma,Washington,www.faithseminary.edu,98407-0186,-122.515945,47.280177,"Theological seminaries, Bible colleges, and other faith-related institutions"
+171128,Michigan Technological University,1400 Townsend Drive,Houghton,Michigan,www.mtu.edu,49931-1295,-88.546403,47.1183,Research Universities (high research activity)
+128425,Yeshiva Toras Chaim Talmudical Seminary,1555 Stuart St,Denver,Colorado,,80204,-105.043282,39.741781,"Theological seminaries, Bible colleges, and other faith-related institutions"
+140447,Mercer University,1400 Coleman Avenue,Macon,Georgia,www.mercer.edu,31207,-83.651042,32.829731,Master's Colleges and Universities (larger programs)
+213011,Immaculata University,1145 King Rd,Immaculata,Pennsylvania,www.immaculata.edu,19345-0702,-75.57063,40.027963,Doctoral/Research Universities
+128425,Yeshiva Toras Chaim Talmudical Seminary,1555 Stuart St,Denver,Colorado,,80204,-105.043282,39.741781,"Theological seminaries, Bible colleges, and other faith-related institutions"
+126562,University of Colorado Denver,"1380 Lawrence Street, Lawrence Street Center, Suite 1400",Denver,Colorado,www.ucdenver.edu/,80217-3364,-104.999181,39.74603,Research Universities (high research activity)
+196255,SUNY Downstate Medical Center,450 Clarkson Ave,Brooklyn,New York,www.downstate.edu/,11203-2098,-73.943827,40.655283,Medical schools and medical centers
+363907,Caribbean University-Ponce,AVE. EDNITA NAZARIO #1015,Ponce,Puerto Rico,www.caribbean.edu,00716-7733,-66.614615,18.012811,Master's Colleges and Universities (smaller programs)
+136950,Rollins College,1000 Holt Avenue,Winter Park,Florida,www.rollins.edu,32789-4499,-81.348716,28.591992,Master's Colleges and Universities (larger programs)
+203517,Kent State University at Kent,"Executive Office, 2nd Floor Library",Kent,Ohio,www.kent.edu,44242-0001,-81.342253,41.146856,Research Universities (high research activity)
+101189,Faulkner University,5345 Atlanta Hwy,Montgomery,Alabama,www.faulkner.edu,36109-3390,-86.21641,32.384181,Baccalaureate Colleges--Diverse Fields
+165167,Cambridge College,1000 Massachusetts Avenue,Cambridge,Massachusetts,www.cambridgecollege.edu,2138,-71.11084,42.369193,Master's Colleges and Universities (larger programs)
+241739,Universidad Metropolitana,Ave. Ana G. Mendez Km 0.3,Cupey,Puerto Rico,www.suagm.edu/umet,00928-1345,-66.061042,18.386652,Master's Colleges and Universities (larger programs)
+131283,Catholic University of America,"620 Michigan Avenue, NE",Washington,District of Columbia,www.cua.edu,20064,-76.998961,38.935796,Research Universities (high research activity)
+217882,Clemson University,201 Sikes Hall,Clemson,South Carolina,www.clemson.edu,29634,-82.834463,34.677329,Research Universities (high research activity)
+186618,College of Saint Elizabeth,2 Convent Rd,Morristown,New Jersey,www.cse.edu,07960-6989,-74.436039,40.781061,Master's Colleges and Universities (larger programs)
+110662,University of California-Los Angeles,405 Hilgard Ave,Los Angeles,California,www.ucla.edu/,90095-1405,-118.443901,34.068892,Research Universities (very high research activity)
+104717,Grand Canyon University,3300 W Camelback Rd,Phoenix,Arizona,www.gcu.edu,85017,-112.129917,33.512172,Master's Colleges and Universities (larger programs)
+227757,Rice University,6100 S Main,Houston,Texas,www.rice.edu,77005-1827,-95.403625,29.716485,Research Universities (very high research activity)
+241739,Universidad Metropolitana,Ave. Ana G. Mendez Km 0.3,Cupey,Puerto Rico,www.suagm.edu/umet,00928-1345,-66.061042,18.386652,Master's Colleges and Universities (larger programs)
+178411,Missouri University of Science and Technology,1870 Miner Circle,Rolla,Missouri,www.mst.edu/,65409,-91.7759,37.955853,Research Universities (high research activity)
+224147,Texas A & M University-Corpus Christi,6300 Ocean Dr.,Corpus Christi,Texas,www.tamucc.edu,78412-5503,-97.331933,27.718601,Doctoral/Research Universities
+206279,Union Institute & University,440 E McMillan St,Cincinnati,Ohio,www.myunion.edu,45206-1925,-84.500139,39.126856,Doctoral/Research Universities
+183044,University of New Hampshire-Main Campus,"105 Main St., Thompson Hall",Durham,New Hampshire,www.unh.edu,03824-3547,-70.934512,43.134235,Research Universities (high research activity)
+454829,Aspen University,720 S Colorado Blvd Ste 1150N,Denver,Colorado,www.aspen.edu,80246,-104.939873,39.703696,Master's Colleges and Universities (medium programs)
+178396,University of Missouri-Columbia,105 Jesse Hall,Columbia,Missouri,missouri.edu/,65211,-92.326429,38.941015,Research Universities (very high research activity)
+237525,Marshall University,1 John Marshall Dr,Huntington,West Virginia,www.marshall.edu/,25755,-82.43065,38.42261,Master's Colleges and Universities (larger programs)
+232706,Marymount University,2807 N Glebe Rd,Arlington,Virginia,www.marymount.edu,22207-4224,-77.128799,38.905552,Master's Colleges and Universities (larger programs)
+197708,Yeshiva University,500 W 185th St,New York,New York,www.yu.edu,10033-3299,-73.928541,40.8508,Research Universities (very high research activity)
